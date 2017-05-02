@@ -1,6 +1,7 @@
 Title: Inicio
 URL:
 save_as: index.html
+page-order: 1
 
 ![canes-juegan]({filename}/images/canes.jpg)
 
