@@ -6,30 +6,41 @@ AUTHOR = 'gardenunez'
 SITENAME = 'Educacion canina en positivo'
 SITEURL = ''
 
-PATH = 'content'
-
-TIMEZONE = 'Europe/Paris'
-
+TIMEZONE = 'Europe/Madrid'
 DEFAULT_LANG = 'es'
 
-# Feed generation is usually not desired when developing
+
+PATH = 'content'
+
+# pages
+PAGE_PATHS = ['pages']
+PAGE_URL = 'pages/{slug}.html'
+
+# Disable feed generation
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+# disable generation of tag-related pages
+# http://docs.getpelican.com/en/stable/faq.html#is-pelican-only-suitable-for-blogs
+TAGS_SAVE_AS = ''
+TAG_SAVE_AS = ''
+
+
+LOAD_CONTENT_CACHE = False
+
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
-
+# LINKS = (('Pelican', 'http://getpelican.com/'),
+#          ('Python.org', 'http://python.org/'),
+#          ('Jinja2', 'http://jinja.pocoo.org/'),
+#          ('You can modify those links in your config file', '#'),)
+#
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('facebook', 'http://facebook.com/JuanmaSF7'),)
 
-DEFAULT_PAGINATION = 10
+# DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
