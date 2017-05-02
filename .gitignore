@@ -91,5 +91,7 @@ ENV/
 # ide files
 .idea
 
-# Output files
+# pelican
 output
+pelican.pid
+srv.pid
