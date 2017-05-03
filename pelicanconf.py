@@ -39,7 +39,7 @@ LOAD_CONTENT_CACHE = False
 #          ('You can modify those links in your config file', '#'),)
 #
 # Social widget
-SOCIAL = (('facebook', 'http://facebook.com/JuanmaSF7'),)
+SOCIAL = (('facebook', 'https://www.facebook.com/juanmadog'),)
 
 # DEFAULT_PAGINATION = 10
 
