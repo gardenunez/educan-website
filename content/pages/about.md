@@ -1,4 +1,4 @@
-Title: About
+Title: Sobre Mi
 page-order:2
 
 Soy un enamorado de los animales pero en especial de los perros, tal es mi entusiasmo que he querido estudiar y formarme para poder ayudarles.
