@@ -32,6 +32,8 @@ TAG_SAVE_AS = ''
 
 LOAD_CONTENT_CACHE = False
 
+THEME = 'themes/notmyidea'
+
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
 #          ('Python.org', 'http://python.org/'),
