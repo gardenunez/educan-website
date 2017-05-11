@@ -2,7 +2,7 @@ Title: Contacto
 page-order: 3
 
 
-<form class="form" id="contactform" action="//formspree.io/email@domain.com" method="POST">
+<form class="form" id="contactform" action="//formspree.io/jmsf147@gmail.com" method="POST">
     <fieldset class="field">
         <label class="label" for="name"><span class="label-content">Nombre*</span></label>
         <input class="input" type="text" name="name" placeholder="Nombre" required style="width: 50%;">
@@ -17,7 +17,7 @@ page-order: 3
         <textarea class="input" name="message" rows="6" placeholder="Mensaje" required style="width: 100%"></textarea>
     </fieldset>
     <input class="hidden" type="text" name="_gotcha" style="display:none">
-    <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+    <input class="hidden" type="hidden" name="_subject" value="Mensaje desde juanmadog">
     <fieldset class="field">
         <input class="button submit" type="submit" value="Enviar">
     </fieldset>
