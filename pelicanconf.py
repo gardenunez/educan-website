@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'gardenunez'
-SITENAME = 'Educacion canina en positivo'
+AUTHOR = 'Juanmadog'
+SITENAME = 'juanmadog'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Madrid'
@@ -32,7 +32,13 @@ TAG_SAVE_AS = ''
 
 LOAD_CONTENT_CACHE = False
 
-THEME = 'themes/notmyidea'
+THEME = 'themes/pelican-bootstrap3'
+JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
+
+# plugins
+PLUGIN_PATHS = ['./pelican-plugins']
+PLUGINS = ['i18n_subsites']
+
 
 # Blogroll
 # LINKS = (('Pelican', 'http://getpelican.com/'),
@@ -47,3 +53,6 @@ SOCIAL = (('facebook', 'https://www.facebook.com/juanmadog'),)
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# About
+ABOUT_ME='Soy un enamorado de los animales pero en especial de los perros, tal es mi entusiasmo que he querido estudiar y formarme para poder ayudarles. Soy Educador Canino, Ayudante Técnico Veterinario (ATV) y lo último que he estudiado (de momento) es Fisioterapia y Rehabilitación en pequeños animales. Colaboro con el Centro de Protección Animal Mancomunidad Henares Jarama, realizando labores de Educador (terapias frente ansiedad y miedos) y ATV (vacunaciones, desparasitaciones y cirugías entre otras actividades).'
