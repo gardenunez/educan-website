@@ -2,7 +2,7 @@ Title: Contacto
 page-order: 3
 
 
-<form class="form" id="contactform" action="//formspree.io/jmsf147@gmail.com" method="POST">
+<form class="form" id="contactform" action="//formspree.io/juanmadog@gmail.com" method="POST">
     <fieldset class="field">
         <label class="label" for="name"><span class="label-content">Nombre*</span></label>
         <input class="input" type="text" name="name" placeholder="Nombre" required style="width: 50%;">

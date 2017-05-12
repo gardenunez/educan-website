@@ -8,5 +8,5 @@ Por eso no hay mayor gratitud para mi, que poder ayudar a que tu y tu perr@ os e
 Juanma  
 Madrid  
 Tel: <a href="tel:+34652680851">+34 652 680 851</a>  
-Correo: <jmsf147@gmail.com>  
-Facebook: [JuanmaSF7](http://facebook.com/JuanmaSF7)
+Correo: <juanmadog@gmail.com>  
+Facebook: [juanmadog](https://www.facebook.com/juanmadog)
