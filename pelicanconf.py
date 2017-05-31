@@ -56,4 +56,14 @@ SOCIAL = (('facebook', 'https://www.facebook.com/juanmadog'),)
 #RELATIVE_URLS = True
 
 # About
-ABOUT_ME='Soy un enamorado de los animales pero en especial de los perros, tal es mi entusiasmo que he querido estudiar y formarme para poder ayudarles. Soy Educador Canino, Ayudante Técnico Veterinario (ATV) y lo último que he estudiado (de momento) es Fisioterapia y Rehabilitación en pequeños animales. Colaboro con el Centro de Protección Animal Mancomunidad Henares Jarama, realizando labores de Educador (terapias frente ansiedad y miedos) y ATV (vacunaciones, desparasitaciones y cirugías entre otras actividades).'
+ABOUT_ME='<p>Soy un enamorado de los animales pero en especial de los perros, ' \
+         'tal es mi entusiasmo que he querido estudiar y formarme para poder '\
+         'ayudarles. Soy Educador Canino, Ayudante Técnico Veterinario (ATV) '\
+         'y lo último que he estudiado (de momento) es Fisioterapia y ' \
+         'Rehabilitación en pequeños animales. Colaboro con el Centro de ' \
+         'Protección Animal Mancomunidad Henares Jarama, realizando labores ' \
+         'de Educador (terapias frente ansiedad y miedos) y ' \
+         'ATV (vacunaciones, desparasitaciones y ' \
+         'cirugías entre otras actividades). </p>' \
+         '<p>Tel: <a href="tel:+34652680851">+34 652 680 851</a></p> ' \
+         '<p>Correo: <a href="mailto:juanmadog@gmail.com">juanmadog@gmail.com</a></p>'
