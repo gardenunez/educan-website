@@ -16,6 +16,7 @@ PATH = 'content'
 PAGE_PATHS = ['pages']
 PAGE_URL = 'pages/{slug}.html'
 PAGE_ORDER_BY = 'page-order'
+PAGE_EXCLUDES = ['pages/exclude']
 
 # Disable feed generation
 FEED_ALL_ATOM = None
