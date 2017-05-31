@@ -10,7 +10,7 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://educan-website.herokuapp.com'
+SITEURL = 'http://www.juanmadog.com'
 RELATIVE_URLS = False
 
 # FEED_ALL_ATOM = 'feeds/all.atom.xml'
